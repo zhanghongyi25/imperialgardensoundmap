@@ -1,0 +1,18 @@
+# Unity build folders
+Build_iOS1/
+Build_iOS1_BackUpThisFolder_ButDontShipItWithYourGame/
+Library/
+Logs/
+iPhone_Building/
+
+# OS files
+.DS_Store
+*.swp
+
+# Large Unity-generated folders
+BG11/
+BG12/
+
+# macOS metadata files
+.DS_Store
+._*
